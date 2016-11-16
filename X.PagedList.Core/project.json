@@ -6,7 +6,6 @@
   },
 
   "frameworks": {
-    "net452": {
       "dependencies": {
         "X.PagedList": {
           "target": "project"
